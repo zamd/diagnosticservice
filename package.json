@@ -1,0 +1,16 @@
+{
+  "name": "connectordiag",
+  "version": "1.0.0",
+  "description": "auth0 connector diagnostic service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "auth0",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "lodash": "^4.14.2",
+    "ws": "^1.1.1"
+  }
+}
