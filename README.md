@@ -1,0 +1,2 @@
+# diagnosticservice
+connector diagnostic service
